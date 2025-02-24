@@ -23,5 +23,5 @@ purpleBtn.addEventListener('click', () => {
 })
 resetBtn.addEventListener('click', () => {
     mainHeading.style.color = "black"
-    mainHeading.style.fontFamily = "Arial, sans-serif"    
+    mainHeading.style.fontFamily = "Arial, sans-serif"
 })
